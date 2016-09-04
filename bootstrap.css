@@ -4986,16 +4986,16 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
+  padding-top: 30%;
+  padding-bottom: 30%;
+  margin-bottom: 30%;
   color: inherit;
   background-color: #151515;
 }
 .jumbotron h1,
 .jumbotron .h1 {
 
- margin-left: 250px;
+ margin-left: 20%;
 text-indent: 80px;
     
  letter-spacing: 3px;
@@ -5011,7 +5011,7 @@ text-indent: 80px;
 line-height: 1.6875;
 
 text-align: justify;
-margin-left: 340px;
+margin-left: 28%;
 color: #BFC9CA  ;
 font-family: Arial;
 font-size: 20px;
