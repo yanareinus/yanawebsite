@@ -4984,46 +4984,40 @@ a.badge:focus {
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
+
 }
+
+
+
 .jumbotron {
-  padding-top: 30%;
-  padding-bottom: 30%;
-  margin-bottom: 30%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
   color: inherit;
-  background-color: #151515;
+background-color: #151515;
 }
 .jumbotron h3,
 .jumbotron .h3 {
-
- margin-left: 20%;
-text-indent: 80px;
-    
- letter-spacing: 3px;
- float:center-right;
-
-
-
   color: inherit;
+ margin-left: 20%;
+
+
 }
-
-
 .jumbotron p {
-
-margin-left: 31%;
-color: #BFC9CA  ;
-font-family: Arial;
-font-size: 20px;
-text-indent: 0px;
- float:center-right;
-
-
-
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+   margin-left: 20%;
 
 
 }
 .jumbotron > hr {
-  border-top-color: #000000;
+  border-top-color: #d5d5d5;
 }
+
+
+
+
 .container .jumbotron,
 .container-fluid .jumbotron {
   border-radius: 6px;
