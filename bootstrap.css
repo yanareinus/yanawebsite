@@ -5008,18 +5008,19 @@ text-indent: 80px;
 .jumbotron p {
 
 
-line-height: 1.6875;
+
 
 text-align: justify;
-margin-left: 28%;
+margin-left: 27%;
 color: #BFC9CA  ;
 font-family: Arial;
 font-size: 20px;
-
 max-width: 700px;
+font-weight: 200;
+float:center-right;
 
-    
-  font-weight: 200;
+
+
 }
 .jumbotron > hr {
   border-top-color: #000000;
